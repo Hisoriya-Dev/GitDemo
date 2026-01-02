@@ -1,0 +1,39 @@
+Git >> Version Control
+
+    v1
+    v2
+    v3
+New ipV4
+
+
+>> It is Distrubted (on Cloud)
+>> Collaboration
+>> Tracking
+>> Recovery
+
+
+
+GitHub
+BitBucket
+GitLabs
+Gitpod
+
+
+>> For 1st time need to configure github in our system
+git config --global user.name "Hisoriya-Dev"
+git config --global user.email "hisoriyad@gmail.com"
+git config --global color.ui auto
+
+Mandatory Commands :
+>> git init
+>>git remote add origin https://github.com/Hisoriya-Dev/GitDemo.git
+
+
+git pull origin main 
+git status
+
+
+git add .
+git status
+git commit -m "Commit Me"
+git push hhhhhhhhhhh

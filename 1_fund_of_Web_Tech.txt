@@ -1,0 +1,50 @@
+Mean Stack
+    >>M: MongoDB(Database)
+    >>E:ExpressJs(Backend)
+    >>A:Angular(Frontend)
+    >>N:NodeJs(Backend)
+
+
+Three building block 
+Three Pillars
+    >>HTML (Hyper Text Markup Language)
+    >>CSS (Cascading Style Sheets)
+    >>JS (JavaScript)
+
+Other Stacks
+MEAN, MERN,Java Full Stack
+
+Web Dev
+    >> Building/Developers Team
+    >> Testing Team(Manual Tester/ Automated Tester)
+    >> Hosting Teams(Devops Team)
+    >> Maintanance Team?Support Team
+
+SDLC (Software Development Life Cycle):
+    >>Waterfall Model
+    >>Agile Model
+    >>Spiral Model
+    >>Iterative Model
+    >>V Shaped Model
+    >>RAD(Rapid Application Development) Model
+
+URL(Uniform Resourse Locator)
+    https://www.instagram.com/
+    https://education.rohanAcademy.edu/FullStack
+
+    hhtps: Protocol
+    rohanAcademyeducation:Server?Domain Name
+    education:Sub-Domain
+    .edu:TLD(Top Level Domain)
+    FullStack:(Path/Location)
+
+    Protocol:
+        >> Set of Rules?instructions
+            http  : Hyprt Text Transfer Protocol
+            https : Secure
+            tcp   : Transmission Control Protocol
+            udp   : User Datagram Protocol
+            smtp  : Simple Mail Transfer Protocol
+            ftp   : File transfer Protocol
+            ip    : Internet Protocol
+            
